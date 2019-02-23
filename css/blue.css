@@ -163,7 +163,7 @@ a:hover {
 
 h1  {
 	width:250px;
-	font-size:38px;
+	font-size:35px;
 	color:#1b4491;
 	margin-bottom:3px;
 	clear:both;
@@ -393,13 +393,13 @@ ul.works li img:hover {
 img.portrait {
 	
 	background-repeat: no-repeat;
-	width:125px;
-	height:125px;
+	width:145px;
+	height:145px;
 	
 	margin-left:50px;
 	float:left;
 	
-	border-radius: 50%;
+	border-radius: 45%;
 }
 
 
